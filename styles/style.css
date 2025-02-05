@@ -8,9 +8,25 @@
 }
 
 body {
+    position: relative;
     box-sizing: border-box;
     background-color: #000000;
     color: #F6F6F6;
+}
+
+body::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url("../assets/codigo.png"); /* Substitua pelo caminho da sua imagem */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    opacity: 1; /* Ajuste a opacidade conforme necessário */
+    z-index: -1; /* Mantém o fundo atrás do conteúdo */
 }
 
 .cabecalho {
@@ -67,6 +83,11 @@ body {
     
 }
 
+.apresentacao__conteudo__texto a{
+    text-decoration: none;
+    color: #B822FD;
+}
+
 .apresentacao__links{
     display: flex;
     flex-direction: column;
@@ -121,3 +142,13 @@ body {
 
 }
 
+.apresentacao__conteudo__tecnolgoias {
+    display: flex;
+    gap: 16px;
+}
+
+.apresentacao__conteudo__img
+{
+    width: 50px;
+    height: 50px;
+}
