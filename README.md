@@ -7,11 +7,7 @@ Bem-vindo ao meu portfólio pessoal! Este projeto foi desenvolvido como parte do
 - **Sobre Mim**: Uma seção onde compartilho mais informações sobre mim.
 
 ## Demonstração da Aplicação
-
-
-## Responsividade
-![responsivo](https://github.com/user-attachments/assets/f3fa279e-e7ff-4a57-88a0-17184179d366)
-
+![portifolio](https://github.com/user-attachments/assets/b6b5dfad-9b1b-4c6d-a959-e98cda90a6ec)
 
 ## Estrutura do Projeto
 
@@ -27,6 +23,11 @@ O repositório contém os seguintes arquivos e diretórios:
 
 - **HTML**: Para a estruturação do conteúdo.
 - **CSS**: Para a estilização e layout das páginas.
+
+## Responsividade
+Fiz o projeto utilizando a responsividade, pensando das pessoas que podem acessar em diferentes formatos de telas.
+
+![responsivo](https://github.com/user-attachments/assets/f3fa279e-e7ff-4a57-88a0-17184179d366)
 
 ## Objetivo
 
