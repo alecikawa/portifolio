@@ -198,6 +198,7 @@ body::before {
 
     .cabecalho__menu {
         justify-content: center;
+        gap: 40px;
     }
 
     .apresentacao {
