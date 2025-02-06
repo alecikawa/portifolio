@@ -217,7 +217,7 @@ body::before {
 
 @media (max-width: 550px) {
     .cabecalho__menu {
-        gap: 30px;
+        gap: 20px;
     }
 
     .cabecalho__menu__link {
