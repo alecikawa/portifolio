@@ -220,6 +220,10 @@ body::before {
         gap: 30px;
     }
 
+    .cabecalho__menu__link {
+        font-size: 1.30rem;
+    }
+
     .apresentacao__links__subtitulo {
         text-align: center;
     }
