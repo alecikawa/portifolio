@@ -233,6 +233,10 @@ body::before {
         align-items: center;
         gap: 30px;
     }
+
+    .apresentacao__links__navegacao {
+        width: 80%;
+    }
     
     
 }
