@@ -57,6 +57,7 @@ body::before {
     text-decoration: none;
 }
 
+
 .cabecalho__menu__link:hover {
     color: var(--cor-hover-menu);
 }
